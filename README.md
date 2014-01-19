@@ -4,7 +4,7 @@ Bash_Hello_World_Binary
 A Bash Hello World Binary
 
 [Prerequired Environment]
-Linux Kernel Version: >=2.6
+Linux Kernel Version: >=2.6<br/>
 Android Version: >=4.0
 Darwin Kernel Version: >=13.0
 
